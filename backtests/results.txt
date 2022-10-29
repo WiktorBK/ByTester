@@ -1,0 +1,942 @@
+
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 135, 'losses': 144, 'profit': -3.079}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 118, 'losses': 136, 'profit': -4.608}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 136, 'losses': 118, 'profit': -2.013}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 113, 'losses': 145, 'profit': -4.218}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 125, 'losses': 137, 'profit': -4.363}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:12:00'), 'wins': 119, 'losses': 149, 'profit': -4.733}
+-23.014
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 104, 'losses': 148, 'profit': -3.75}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 95, 'losses': 132, 'profit': -5.859}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 111, 'losses': 117, 'profit': -0.9}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 96, 'losses': 139, 'profit': -3.812}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 110, 'losses': 138, 'profit': -3.505}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:27:00'), 'wins': 92, 'losses': 139, 'profit': -5.453}
+-23.279
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:24:00'), 'wins': 80, 'losses': 139, 'profit': -4.986}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 82, 'losses': 139, 'profit': -4.897}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 92, 'losses': 116, 'profit': -1.465}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 84, 'losses': 140, 'profit': -3.63}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 89, 'losses': 137, 'profit': -2.653}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 76, 'losses': 130, 'profit': -4.711}
+-22.342
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 62, 'losses': 140, 'profit': -1.468}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 53, 'losses': 117, 'profit': -4.74}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 69, 'losses': 108, 'profit': -0.867}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 57, 'losses': 140, 'profit': -5.317}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 60, 'losses': 116, 'profit': -2.341}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 61, 'losses': 137, 'profit': -4.968}
+-19.701
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 48, 'losses': 112, 'profit': 0.061}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 38, 'losses': 101, 'profit': -2.786}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 51, 'losses': 109, 'profit': -1.467}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 40, 'losses': 133, 'profit': -4.893}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 44, 'losses': 118, 'profit': -6.325}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:12:00'), 'wins': 48, 'losses': 130, 'profit': -4.31}
+-19.72
+
+Period: 1 month/s, Interval: 3, Ema Window: 100, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 37, 'losses': 105, 'profit': -1.027}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 28, 'losses': 89, 'profit': -3.363}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:39:00'), 'wins': 39, 'losses': 99, 'profit': -1.409}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:33:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 31, 'losses': 113, 'profit': -3.865}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 33, 'losses': 109, 'profit': -6.706}
+LTCUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 16:27:00'), 'wins': 37, 'losses': 121, 'profit': -3.053}
+-19.423000000000002
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 129, 'losses': 140, 'profit': -3.794}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 121, 'losses': 131, 'profit': -3.872}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 139, 'losses': 117, 'profit': -1.693}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:18:00'), 'wins': 122, 'losses': 137, 'profit': -3.625}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 130, 'losses': 140, 'profit': -4.787}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:12:00'), 'wins': 127, 'losses': 147, 'profit': -4.774}
+-22.545
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 96, 'losses': 147, 'profit': -4.752}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 94, 'losses': 129, 'profit': -5.13}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 111, 'losses': 120, 'profit': -1.42}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:18:00'), 'wins': 104, 'losses': 131, 'profit': -3.116}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 114, 'losses': 141, 'profit': -3.808}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:27:00'), 'wins': 99, 'losses': 134, 'profit': -4.921}
+-23.147
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:24:00'), 'wins': 81, 'losses': 139, 'profit': -5.088}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 84, 'losses': 135, 'profit': -4.068}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 92, 'losses': 117, 'profit': -2.106}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:27:00'), 'wins': 88, 'losses': 123, 'profit': -1.779}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 94, 'losses': 141, 'profit': -3.695}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 74, 'losses': 128, 'profit': -4.945}
+-21.680999999999997
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 62, 'losses': 144, 'profit': -1.843}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 55, 'losses': 112, 'profit': -4.135}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 68, 'losses': 112, 'profit': -0.951}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 58, 'losses': 117, 'profit': -3.395}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 63, 'losses': 126, 'profit': -3.357}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 63, 'losses': 133, 'profit': -4.307}
+-17.988
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 47, 'losses': 120, 'profit': -0.512}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 40, 'losses': 99, 'profit': -2.484}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 49, 'losses': 110, 'profit': -1.865}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 43, 'losses': 114, 'profit': -3.004}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 47, 'losses': 121, 'profit': -6.047}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 49, 'losses': 126, 'profit': -2.048}
+-15.959999999999999
+
+Period: 1 month/s, Interval: 3, Ema Window: 150, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:12:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 38, 'losses': 110, 'profit': -0.64}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 87, 'profit': -3.726}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:39:00'), 'wins': 38, 'losses': 97, 'profit': -1.384}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 33, 'losses': 92, 'profit': -2.158}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 36, 'losses': 114, 'profit': -5.828}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 37, 'losses': 122, 'profit': -3.054}
+-16.79
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 23:24:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 132, 'losses': 139, 'profit': -4.118}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 124, 'losses': 133, 'profit': -3.796}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 138, 'losses': 119, 'profit': -1.781}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 20:09:00'), 'wins': 126, 'losses': 139, 'profit': -3.527}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 132, 'losses': 139, 'profit': -4.756}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:12:00'), 'wins': 131, 'losses': 142, 'profit': -4.5}
+-22.478
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 23:24:00'), 'end_date': Timestamp('2022-07-27 16:48:00'), 'wins': 100, 'losses': 142, 'profit': -3.913}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 95, 'losses': 131, 'profit': -5.035}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 110, 'losses': 121, 'profit': -1.741}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 20:09:00'), 'wins': 102, 'losses': 135, 'profit': -3.042}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 112, 'losses': 141, 'profit': -4.699}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:27:00'), 'wins': 101, 'losses': 132, 'profit': -5.104}
+-23.534
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 23:24:00'), 'end_date': Timestamp('2022-07-27 16:24:00'), 'wins': 86, 'losses': 132, 'profit': -3.872}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 86, 'losses': 138, 'profit': -4.2}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 92, 'losses': 126, 'profit': -2.177}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 20:09:00'), 'wins': 86, 'losses': 128, 'profit': -2.106}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 95, 'losses': 141, 'profit': -4.303}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 77, 'losses': 125, 'profit': -5.196}
+-21.854
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 23:24:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 63, 'losses': 140, 'profit': -2.069}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 56, 'losses': 112, 'profit': -4.219}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 69, 'losses': 114, 'profit': -1.034}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 53, 'losses': 121, 'profit': -4.067}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 63, 'losses': 132, 'profit': -5.459}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 63, 'losses': 131, 'profit': -4.831}
+-21.679
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 52, 'losses': 113, 'profit': -1.073}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 38, 'losses': 112, 'profit': -4.829}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:03:00'), 'wins': 52, 'losses': 113, 'profit': -1.073}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 41, 'losses': 116, 'profit': -2.338}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 50, 'losses': 124, 'profit': -6.238}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 47, 'losses': 125, 'profit': -3.2}
+-18.750999999999998
+
+Period: 1 month/s, Interval: 3, Ema Window: 200, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-27 23:24:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 40, 'losses': 109, 'profit': -1.159}
+BNBUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 105, 'profit': -5.43}
+ETHUSDT {'start_date': Timestamp('2022-06-27 22:09:00'), 'end_date': Timestamp('2022-07-27 18:39:00'), 'wins': 41, 'losses': 96, 'profit': 0.147}
+ADAUSDT {'start_date': Timestamp('2022-06-27 21:45:00'), 'end_date': Timestamp('2022-07-27 16:54:00'), 'wins': 31, 'losses': 95, 'profit': -2.069}
+MATICUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 16:57:00'), 'wins': 40, 'losses': 117, 'profit': -5.761}
+LTCUSDT {'start_date': Timestamp('2022-06-27 21:42:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 35, 'losses': 123, 'profit': -4.056}
+-18.328
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 83, 'losses': 71, 'profit': -3.374}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 65, 'losses': 60, 'profit': -3.447}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 75, 'losses': 75, 'profit': -5.635}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 79, 'losses': 85, 'profit': -4.584}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 82, 'losses': 79, 'profit': -6.572}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 72, 'losses': 80, 'profit': -3.424}
+-27.035999999999998
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 65, 'losses': 75, 'profit': -4.026}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 49, 'losses': 61, 'profit': -3.473}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 64, 'losses': 76, 'profit': -4.477}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 63, 'losses': 83, 'profit': -4.309}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 78, 'losses': 74, 'profit': -5.205}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 48, 'losses': 71, 'profit': -4.854}
+-26.344
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 55, 'losses': 72, 'profit': -2.072}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 37, 'losses': 58, 'profit': -2.696}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 55, 'losses': 72, 'profit': -4.475}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 57, 'losses': 82, 'profit': -2.829}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 51, 'losses': 64, 'profit': -5.042}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 40, 'losses': 66, 'profit': -4.562}
+-21.676000000000002
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 41, 'losses': 74, 'profit': 0.246}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 27, 'losses': 58, 'profit': -1.768}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 42, 'losses': 63, 'profit': -2.376}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 36, 'losses': 79, 'profit': -5.212}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 32, 'losses': 60, 'profit': -4.425}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 28, 'losses': 54, 'profit': -3.957}
+-17.492
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 31, 'losses': 67, 'profit': 1.225}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 17, 'losses': 56, 'profit': -3.097}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 29, 'losses': 63, 'profit': -3.735}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 80, 'profit': -5.363}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 27, 'losses': 61, 'profit': -3.435}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 21, 'losses': 51, 'profit': -4.753}
+-19.158
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 28, 'losses': 62, 'profit': 2.052}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 17, 'losses': 51, 'profit': -1.851}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 26, 'losses': 63, 'profit': -2.159}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 26, 'losses': 77, 'profit': -3.599}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 58, 'profit': -5.074}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 45, 'profit': -3.478}
+-14.109
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 82, 'losses': 75, 'profit': -3.721}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 63, 'losses': 62, 'profit': -3.918}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 76, 'losses': 78, 'profit': -6.02}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 80, 'losses': 85, 'profit': -4.913}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 79, 'losses': 77, 'profit': -7.402}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 73, 'losses': 79, 'profit': -3.259}
+-29.233
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 65, 'losses': 79, 'profit': -4.253}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 49, 'losses': 62, 'profit': -3.749}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 65, 'losses': 79, 'profit': -4.85}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 64, 'losses': 84, 'profit': -4.595}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 76, 'losses': 73, 'profit': -6.058}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 49, 'losses': 69, 'profit': -4.518}
+-28.023
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 55, 'losses': 74, 'profit': -2.311}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 37, 'losses': 60, 'profit': -2.79}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 55, 'losses': 74, 'profit': -4.914}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 59, 'losses': 82, 'profit': -2.807}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 49, 'losses': 60, 'profit': -5.376}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 41, 'losses': 65, 'profit': -4.41}
+-22.608
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 42, 'losses': 76, 'profit': 0.311}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 27, 'losses': 59, 'profit': -2.185}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 43, 'losses': 65, 'profit': -2.655}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 39, 'losses': 81, 'profit': -5.344}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 27, 'losses': 59, 'profit': -6.381}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 29, 'losses': 54, 'profit': -4.025}
+-20.279000000000003
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 31, 'losses': 68, 'profit': 1.133}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 17, 'losses': 60, 'profit': -3.855}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 29, 'losses': 64, 'profit': -3.861}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 82, 'profit': -5.831}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 24, 'losses': 61, 'profit': -4.809}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 21, 'losses': 51, 'profit': -4.818}
+-22.041000000000004
+
+Period: 1 month/s, Interval: 5, Ema Window: 120, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 28, 'losses': 62, 'profit': 2.255}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 16, 'losses': 53, 'profit': -2.429}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 26, 'losses': 65, 'profit': -2.301}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 25, 'losses': 79, 'profit': -4.715}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 21, 'losses': 56, 'profit': -4.487}
+LTCUSDT {'start_date': Timestamp('2022-06-28 06:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 44, 'profit': -3.301}
+-14.978
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 81, 'losses': 77, 'profit': -4.108}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 62, 'losses': 62, 'profit': -3.98}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 79, 'losses': 77, 'profit': -5.537}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 76, 'losses': 86, 'profit': -5.586}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 83, 'losses': 75, 'profit': -4.564}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 71, 'losses': 80, 'profit': -3.049}
+-26.823999999999998
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 64, 'losses': 81, 'profit': -4.578}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 50, 'losses': 60, 'profit': -3.491}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 67, 'losses': 79, 'profit': -4.253}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 61, 'losses': 83, 'profit': -5.291}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 80, 'losses': 72, 'profit': -4.223}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 45, 'losses': 73, 'profit': -5.188}
+-27.023999999999997
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 54, 'losses': 74, 'profit': -2.275}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 41, 'losses': 57, 'profit': -2.422}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 56, 'losses': 68, 'profit': -3.515}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 56, 'losses': 81, 'profit': -3.613}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 50, 'losses': 62, 'profit': -4.198}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 36, 'losses': 71, 'profit': -5.582}
+-21.605
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 42, 'losses': 75, 'profit': 0.931}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 55, 'profit': -1.525}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 43, 'losses': 64, 'profit': -1.768}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 37, 'losses': 81, 'profit': -5.723}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 28, 'losses': 58, 'profit': -5.265}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 26, 'losses': 59, 'profit': -4.868}
+-18.218000000000004
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 28, 'losses': 63, 'profit': 0.657}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 18, 'losses': 57, 'profit': -3.355}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 62, 'profit': -2.773}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 29, 'losses': 80, 'profit': -6.053}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 24, 'losses': 61, 'profit': -3.648}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 56, 'profit': -5.773}
+-20.945
+
+Period: 1 month/s, Interval: 5, Ema Window: 150, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 25, 'losses': 57, 'profit': 1.497}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 17, 'losses': 50, 'profit': -1.885}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 24, 'losses': 63, 'profit': -2.249}
+ADAUSDT {'start_date': Timestamp('2022-06-28 06:20:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 23, 'losses': 76, 'profit': -4.792}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 21, 'losses': 57, 'profit': -2.852}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 15, 'losses': 51, 'profit': -4.566}
+-14.847000000000001
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 84, 'losses': 76, 'profit': -3.302}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 57, 'losses': 66, 'profit': -4.187}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 79, 'losses': 76, 'profit': -5.534}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 79, 'losses': 84, 'profit': -5.641}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 80, 'losses': 82, 'profit': -6.899}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 68, 'losses': 73, 'profit': -2.804}
+-28.367
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 64, 'losses': 82, 'profit': -4.798}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 44, 'losses': 62, 'profit': -3.82}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 67, 'losses': 77, 'profit': -4.474}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 65, 'losses': 81, 'profit': -4.69}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 77, 'losses': 79, 'profit': -6.516}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 45, 'losses': 70, 'profit': -4.273}
+-28.571
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 50, 'losses': 79, 'profit': -4.089}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 35, 'losses': 61, 'profit': -3.326}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 57, 'losses': 67, 'profit': -3.422}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 56, 'losses': 76, 'profit': -2.833}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 48, 'losses': 69, 'profit': -7.434}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 35, 'losses': 66, 'profit': -4.754}
+-25.858000000000004
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 37, 'losses': 85, 'profit': -1.807}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 26, 'losses': 62, 'profit': -2.379}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 43, 'losses': 65, 'profit': -1.801}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 38, 'losses': 76, 'profit': -5.108}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 29, 'losses': 65, 'profit': -6.247}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 24, 'losses': 51, 'profit': -3.789}
+-21.131
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 24, 'losses': 76, 'profit': -2.039}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 16, 'losses': 59, 'profit': -3.286}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 30, 'losses': 63, 'profit': -2.914}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 28, 'losses': 77, 'profit': -6.032}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 25, 'losses': 63, 'profit': -4.36}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 53, 'profit': -3.522}
+-22.153
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-28 05:55:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 23, 'losses': 66, 'profit': 0.344}
+BNBUSDT {'start_date': Timestamp('2022-06-28 05:00:00'), 'end_date': Timestamp('2022-07-27 18:40:00'), 'wins': 15, 'losses': 51, 'profit': -1.622}
+ETHUSDT {'start_date': Timestamp('2022-06-28 05:50:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 25, 'losses': 64, 'profit': -2.113}
+ADAUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:35:00'), 'wins': 23, 'losses': 74, 'profit': -5.114}
+MATICUSDT {'start_date': Timestamp('2022-06-28 05:10:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 23, 'losses': 60, 'profit': -3.975}
+LTCUSDT {'start_date': Timestamp('2022-06-28 08:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 14, 'losses': 47, 'profit': -3.742}
+-16.221999999999998
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 19, 'losses': 26, 'profit': -6.295}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 21, 'losses': 18, 'profit': -0.719}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 19:00:00'), 'wins': 20, 'losses': 16, 'profit': -1.887}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 20:00:00'), 'wins': 22, 'losses': 18, 'profit': -1.462}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 22, 'losses': 22, 'profit': -2.776}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 20, 'losses': 23, 'profit': -4.825}
+-17.964
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 18, 'losses': 24, 'profit': -5.225}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 17, 'losses': 18, 'profit': -1.115}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 17, 'profit': -1.809}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 18, 'profit': -1.303}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 17, 'losses': 22, 'profit': -3.571}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 22, 'profit': -3.948}
+-16.970999999999997
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 14, 'losses': 25, 'profit': -5.116}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 15, 'losses': 18, 'profit': -0.824}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 17, 'profit': -1.621}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 18, 'profit': -0.907}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 16, 'losses': 23, 'profit': -4.03}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 22, 'profit': -3.334}
+-15.832
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 23, 'profit': -4.514}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 9, 'losses': 18, 'profit': -2.028}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 11, 'losses': 17, 'profit': -3.136}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 15, 'losses': 17, 'profit': 0.396}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 25, 'profit': -3.561}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 22, 'profit': -3.746}
+-16.589
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 4, 'losses': 23, 'profit': -5.058}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 7, 'losses': 14, 'profit': -1.148}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 18, 'profit': -3.209}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 15, 'profit': 1.839}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 24, 'profit': -1.954}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 20, 'profit': -3.766}
+-13.296
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 5, 'losses': 22, 'profit': -4.251}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 7, 'losses': 11, 'profit': -0.279}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 17, 'profit': -1.971}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 9, 'losses': 19, 'profit': -0.648}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 11, 'losses': 24, 'profit': -1.526}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 7, 'losses': 20, 'profit': -4.215}
+-12.89
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 18, 'losses': 26, 'profit': -6.869}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 22, 'losses': 18, 'profit': -0.597}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 19:00:00'), 'wins': 20, 'losses': 16, 'profit': -1.253}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 20:00:00'), 'wins': 24, 'losses': 17, 'profit': -1.174}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 23, 'losses': 21, 'profit': -2.237}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 21, 'losses': 23, 'profit': -4.455}
+-16.585
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 17, 'losses': 24, 'profit': -5.947}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 18, 'losses': 18, 'profit': -0.959}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 17, 'profit': -1.175}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 19, 'profit': -1.235}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 18, 'losses': 21, 'profit': -3.032}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 23, 'profit': -3.922}
+-16.27
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 25, 'profit': -5.985}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 16, 'losses': 18, 'profit': -0.633}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 17, 'profit': -0.987}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 16, 'losses': 15, 'profit': -1.842}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 22, 'profit': -3.491}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 23, 'profit': -3.308}
+-16.246000000000002
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 23, 'profit': -4.514}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 10, 'losses': 18, 'profit': -1.769}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 11, 'losses': 17, 'profit': -2.502}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 15, 'profit': -1.502}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 14, 'losses': 24, 'profit': -3.022}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 22, 'profit': -3.704}
+-17.013
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 4, 'losses': 23, 'profit': -5.058}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 7, 'losses': 14, 'profit': -1.148}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 18, 'profit': -2.575}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 16, 'profit': -1.804}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 21, 'profit': -1.129}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 21, 'profit': -3.74}
+-15.453999999999999
+
+Period: 1 month/s, Interval: 15, Ema Window: 120, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 5, 'losses': 22, 'profit': -4.251}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 7, 'losses': 11, 'profit': -0.279}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 17, 'profit': -1.337}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 21, 'profit': -2.075}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 11, 'losses': 21, 'profit': -0.701}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 7, 'losses': 21, 'profit': -4.189}
+-12.832
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 21, 'losses': 26, 'profit': -4.774}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 23, 'losses': 17, 'profit': -0.098}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 19:00:00'), 'wins': 21, 'losses': 17, 'profit': -1.663}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 20:00:00'), 'wins': 23, 'losses': 18, 'profit': -1.303}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 21, 'losses': 20, 'profit': -1.719}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 22, 'losses': 24, 'profit': -4.791}
+-14.348
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 18, 'losses': 25, 'profit': -4.487}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 19, 'losses': 18, 'profit': -0.476}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 19, 'losses': 18, 'profit': -1.585}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 21, 'profit': -1.895}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 16, 'losses': 20, 'profit': -2.619}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 25, 'profit': -4.644}
+-15.706
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 14, 'losses': 26, 'profit': -4.442}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 16, 'losses': 18, 'profit': -0.134}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 18, 'profit': -1.397}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 16, 'losses': 15, 'profit': -1.842}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 15, 'losses': 21, 'profit': -3.183}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 16, 'losses': 25, 'profit': -4.014}
+-15.012
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 25, 'profit': -4.465}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 11, 'losses': 19, 'profit': -1.302}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 17, 'profit': -2.518}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 15, 'profit': -1.502}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 23, 'profit': -2.939}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 24, 'profit': -4.253}
+-16.979
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 4, 'losses': 25, 'profit': -5.009}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 8, 'losses': 15, 'profit': -0.923}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 9, 'losses': 18, 'profit': -2.591}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 16, 'profit': -1.804}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 11, 'losses': 20, 'profit': -1.24}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 6, 'losses': 20, 'profit': -3.479}
+-15.046
+
+Period: 1 month/s, Interval: 15, Ema Window: 150, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 5, 'losses': 24, 'profit': -4.202}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 12, 'profit': -0.054}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 9, 'losses': 18, 'profit': -1.747}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 21, 'profit': -2.424}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 9, 'losses': 20, 'profit': -1.126}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 3, 'losses': 19, 'profit': -4.74}
+-14.293
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 1.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 22, 'losses': 27, 'profit': -4.854}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 23, 'losses': 19, 'profit': -0.274}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 19:00:00'), 'wins': 24, 'losses': 21, 'profit': 0.024}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 20:00:00'), 'wins': 21, 'losses': 19, 'profit': -2.634}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 21, 'losses': 20, 'profit': -1.719}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 23, 'losses': 22, 'profit': -3.894}
+-13.350999999999999
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 19:15:00'), 'wins': 20, 'losses': 26, 'profit': -3.687}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 19, 'losses': 20, 'profit': -0.652}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 20, 'losses': 21, 'profit': 0.325}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 20, 'profit': -3.023}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 16:30:00'), 'wins': 16, 'losses': 20, 'profit': -2.619}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 20, 'losses': 23, 'profit': -3.69}
+-13.345999999999998
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 16, 'losses': 27, 'profit': -3.482}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 13:45:00'), 'wins': 16, 'losses': 20, 'profit': -0.31}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 18, 'losses': 17, 'profit': 0.072}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 15, 'losses': 20, 'profit': -2.72}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 15, 'losses': 21, 'profit': -3.183}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 17, 'losses': 24, 'profit': -2.986}
+-12.609000000000002
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 2.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 27, 'profit': -5.34}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 11, 'losses': 21, 'profit': -1.478}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 16, 'profit': -1.049}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 19, 'profit': -2.38}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 13, 'losses': 23, 'profit': -2.939}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 12, 'losses': 23, 'profit': -3.127}
+-16.313
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 2.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 4, 'losses': 26, 'profit': -5.113}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 12:30:00'), 'wins': 8, 'losses': 17, 'profit': -1.099}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 9, 'losses': 17, 'profit': -1.122}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 10, 'losses': 20, 'profit': -2.682}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 11, 'losses': 20, 'profit': -1.24}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 7, 'losses': 20, 'profit': -2.794}
+-14.05
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 3.0, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 16:15:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 4, 'losses': 27, 'profit': -5.077}
+BNBUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 13, 'profit': -0.07}
+ETHUSDT {'start_date': Timestamp('2022-06-29 16:45:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 17, 'profit': -0.262}
+ADAUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 8, 'losses': 21, 'profit': -2.424}
+MATICUSDT {'start_date': Timestamp('2022-06-30 04:45:00'), 'end_date': Timestamp('2022-07-27 18:30:00'), 'wins': 9, 'losses': 20, 'profit': -1.126}
+LTCUSDT {'start_date': Timestamp('2022-06-29 17:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 4, 'losses': 18, 'profit': -3.138}
+-12.097
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 14, 'losses': 17, 'profit': 1.246}
+BNBUSDT {'start_date': Timestamp('2022-07-01 14:15:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 16, 'losses': 10, 'profit': -0.421}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 11, 'losses': 11, 'profit': -1.427}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-28 20:30:00'), 'wins': 10, 'losses': 19, 'profit': -1.866}
+MATICUSDT {'start_date': Timestamp('2022-07-01 09:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 18, 'losses': 18, 'profit': -1.351}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 9, 'losses': 15, 'profit': -1.424}
+-5.243
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 2, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 12, 'losses': 17, 'profit': 2.281}
+BNBUSDT {'start_date': Timestamp('2022-07-01 14:15:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 14, 'losses': 10, 'profit': -1.117}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 10, 'losses': 11, 'profit': -1.283}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-29 04:00:00'), 'wins': 10, 'losses': 19, 'profit': -1.561}
+MATICUSDT {'start_date': Timestamp('2022-07-01 09:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 14, 'losses': 18, 'profit': -1.961}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 7, 'losses': 17, 'profit': -2.096}
+-5.737
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 3, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 6, 'losses': 16, 'profit': 0.718}
+BNBUSDT {'start_date': Timestamp('2022-07-01 14:15:00'), 'end_date': Timestamp('2022-07-29 09:45:00'), 'wins': 9, 'losses': 10, 'profit': -1.27}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 6, 'losses': 13, 'profit': -0.403}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-27 18:00:00'), 'wins': 6, 'losses': 20, 'profit': -2.164}
+MATICUSDT {'start_date': Timestamp('2022-07-01 09:45:00'), 'end_date': Timestamp('2022-07-29 11:15:00'), 'wins': 6, 'losses': 20, 'profit': -4.021}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 4, 'losses': 15, 'profit': -3.068}
+-10.208
+
+Period: 1 month/s, Interval: 15, Ema Window: 200, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 18, 'losses': 15, 'profit': 0.576}
+BNBUSDT {'start_date': Timestamp('2022-07-01 14:15:00'), 'end_date': Timestamp('2022-07-29 06:30:00'), 'wins': 20, 'losses': 10, 'profit': -0.667}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 16, 'losses': 9, 'profit': -1.331}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-29 10:30:00'), 'wins': 15, 'losses': 16, 'profit': -1.81}
+MATICUSDT {'start_date': Timestamp('2022-07-01 09:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 21, 'losses': 17, 'profit': -2.29}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 15, 'losses': 15, 'profit': -0.563}
+-6.085
+
+Period: 1 month/s, Interval: 15, Ema Window: 100, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-01 17:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 17, 'losses': 15, 'profit': 0.568}
+BNBUSDT {'start_date': Timestamp('2022-07-01 14:15:00'), 'end_date': Timestamp('2022-07-29 06:30:00'), 'wins': 20, 'losses': 10, 'profit': -0.674}
+ETHUSDT {'start_date': Timestamp('2022-06-30 19:00:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 15, 'losses': 12, 'profit': -2.192}
+ADAUSDT {'start_date': Timestamp('2022-06-30 19:30:00'), 'end_date': Timestamp('2022-07-29 10:30:00'), 'wins': 15, 'losses': 18, 'profit': -2.723}
+MATICUSDT {'start_date': Timestamp('2022-06-30 10:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 22, 'losses': 20, 'profit': -3.278}
+LTCUSDT {'start_date': Timestamp('2022-07-01 06:00:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 17, 'losses': 14, 'profit': -0.119}
+-8.418
+
+Period: 1 month/s, Interval: 15, Ema Window: 250, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 18, 'losses': 15, 'profit': 0.576}
+BNBUSDT {'start_date': Timestamp('2022-07-03 05:00:00'), 'end_date': Timestamp('2022-07-29 06:30:00'), 'wins': 20, 'losses': 8, 'profit': -0.21}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 16, 'losses': 10, 'profit': -1.519}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-29 10:30:00'), 'wins': 15, 'losses': 17, 'profit': -1.826}
+MATICUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 20, 'losses': 17, 'profit': -2.331}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 15, 'losses': 15, 'profit': -0.563}
+-5.873
+
+Period: 1 month/s, Interval: 15, Ema Window: 250, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 16, 'losses': 15, 'profit': 1.153}
+BNBUSDT {'start_date': Timestamp('2022-07-03 05:00:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 18, 'losses': 7, 'profit': 0.186}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 12, 'losses': 11, 'profit': -1.373}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-28 20:30:00'), 'wins': 10, 'losses': 20, 'profit': -2.032}
+MATICUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 18, 'losses': 18, 'profit': -2.436}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 11, 'losses': 13, 'profit': -0.456}
+-4.958
+
+Period: 1 month/s, Interval: 15, Ema Window: 250, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 21:45:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 14, 'losses': 17, 'profit': 1.246}
+BNBUSDT {'start_date': Timestamp('2022-07-03 05:00:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 16, 'losses': 8, 'profit': 0.036}
+ETHUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 11, 'losses': 12, 'profit': -1.615}
+ADAUSDT {'start_date': Timestamp('2022-07-02 01:00:00'), 'end_date': Timestamp('2022-07-28 20:30:00'), 'wins': 10, 'losses': 20, 'profit': -1.882}
+MATICUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 17, 'losses': 19, 'profit': -2.255}
+LTCUSDT {'start_date': Timestamp('2022-07-02 02:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 9, 'losses': 15, 'profit': -1.424}
+-5.894
+
+Period: 1 month/s, Interval: 15, Ema Window: 300, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-02 19:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 14, 'losses': 18, 'profit': 0.893}
+BNBUSDT {'start_date': Timestamp('2022-07-03 05:00:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 17, 'losses': 9, 'profit': 0.004}
+ETHUSDT {'start_date': Timestamp('2022-07-02 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 13, 'losses': 10, 'profit': -0.141}
+ADAUSDT {'start_date': Timestamp('2022-07-02 22:30:00'), 'end_date': Timestamp('2022-07-28 20:30:00'), 'wins': 11, 'losses': 19, 'profit': -0.996}
+MATICUSDT {'start_date': Timestamp('2022-07-02 15:00:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 16, 'losses': 19, 'profit': -2.138}
+LTCUSDT {'start_date': Timestamp('2022-07-02 08:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 9, 'losses': 15, 'profit': -1.508}
+-3.886
+
+Period: 1 month/s, Interval: 15, Ema Window: 300, TP Ratio: 1.5, Capital: 36
+SOLUSDT {'start_date': Timestamp('2022-07-02 19:30:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 14, 'losses': 18, 'profit': 5.362}
+BNBUSDT {'start_date': Timestamp('2022-07-03 05:00:00'), 'end_date': Timestamp('2022-07-29 09:30:00'), 'wins': 17, 'losses': 9, 'profit': 0.017}
+ETHUSDT {'start_date': Timestamp('2022-07-02 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 13, 'losses': 10, 'profit': -0.847}
+ADAUSDT {'start_date': Timestamp('2022-07-02 22:30:00'), 'end_date': Timestamp('2022-07-28 20:30:00'), 'wins': 11, 'losses': 19, 'profit': -5.965}
+MATICUSDT {'start_date': Timestamp('2022-07-02 15:00:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 16, 'losses': 19, 'profit': -12.828}
+LTCUSDT {'start_date': Timestamp('2022-07-02 08:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 9, 'losses': 15, 'profit': -9.055}
+-23.316
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 46, 'losses': 59, 'profit': -3.097}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 50, 'losses': 67, 'profit': -1.364}
+ETHUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 54, 'losses': 53, 'profit': -2.307}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 44, 'losses': 63, 'profit': -1.564}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 50, 'losses': 55, 'profit': -0.139}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 53, 'losses': 56, 'profit': -1.912}
+-10.383
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 61, 'losses': 51, 'profit': -1.784}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 70, 'losses': 61, 'profit': -1.702}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:45:00'), 'wins': 67, 'losses': 48, 'profit': -2.484}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 58, 'losses': 58, 'profit': -2.565}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 64, 'losses': 58, 'profit': 0.33}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 72, 'losses': 54, 'profit': -1.855}
+-10.06
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 50, 'losses': 56, 'profit': -3.692}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 59, 'losses': 66, 'profit': -1.555}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 58, 'losses': 54, 'profit': -3.5}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 47, 'losses': 63, 'profit': -2.353}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 58, 'losses': 58, 'profit': 0.37}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 56, 'losses': 56, 'profit': -2.26}
+-12.99
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 46, 'losses': 100, 'profit': -3.506}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 60, 'losses': 111, 'profit': -3.199}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 52, 'losses': 100, 'profit': -3.654}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 52, 'losses': 99, 'profit': -3.946}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 51, 'losses': 102, 'profit': -3.114}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 09:05:00'), 'wins': 57, 'losses': 107, 'profit': -4.047}
+-21.466
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 20, 'losses': 131, 'profit': -0.507}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 14, 'losses': 160, 'profit': -2.024}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 18, 'losses': 138, 'profit': -1.021}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 24, 'losses': 133, 'profit': -1.098}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 9, 'losses': 146, 'profit': -1.357}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 08:45:00'), 'wins': 21, 'losses': 145, 'profit': -1.093}
+-7.1000000000000005
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 21, 'losses': 130, 'profit': -0.623}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 17, 'losses': 157, 'profit': -2.078}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 22, 'losses': 134, 'profit': -1.12}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 27, 'losses': 130, 'profit': -1.197}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 11, 'losses': 144, 'profit': -1.424}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 08:45:00'), 'wins': 25, 'losses': 141, 'profit': -1.19}
+-7.632
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 52, 'losses': 99, 'profit': -2.416}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 37, 'losses': 137, 'profit': -2.771}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 46, 'losses': 110, 'profit': -2.496}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 13:40:00'), 'wins': 53, 'losses': 104, 'profit': -2.512}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 28, 'losses': 127, 'profit': -2.48}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 08:45:00'), 'wins': 56, 'losses': 110, 'profit': -2.656}
+-15.331000000000001
+
+Period: 1 month/s, Interval: 5, Ema Window: 300, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 43, 'losses': 83, 'profit': 8.348}
+BNBUSDT {'start_date': Timestamp('2022-06-30 17:40:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 58, 'losses': 79, 'profit': 1.497}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 54, 'losses': 70, 'profit': 6.042}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 42, 'losses': 86, 'profit': 5.445}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 52, 'losses': 71, 'profit': 3.36}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 55, 'losses': 84, 'profit': 6.625}
+31.317
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 45, 'losses': 77, 'profit': 7.875}
+BNBUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 60, 'losses': 83, 'profit': 2.066}
+ETHUSDT {'start_date': Timestamp('2022-06-29 22:20:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 52, 'losses': 76, 'profit': 7.739}
+ADAUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 41, 'losses': 87, 'profit': 6.563}
+MATICUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 51, 'losses': 70, 'profit': 5.341}
+LTCUSDT {'start_date': Timestamp('2022-06-30 03:55:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 58, 'losses': 81, 'profit': 5.795}
+35.379
+
+Period: 1 month/s, Interval: 5, Ema Window: 100, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-29 17:15:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 51, 'losses': 78, 'profit': 7.814}
+BNBUSDT {'start_date': Timestamp('2022-06-29 17:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 65, 'losses': 83, 'profit': 2.072}
+ETHUSDT {'start_date': Timestamp('2022-06-29 19:25:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 54, 'losses': 73, 'profit': 6.555}
+ADAUSDT {'start_date': Timestamp('2022-06-29 17:15:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 40, 'losses': 87, 'profit': 6.567}
+MATICUSDT {'start_date': Timestamp('2022-06-29 21:50:00'), 'end_date': Timestamp('2022-07-29 11:20:00'), 'wins': 49, 'losses': 68, 'profit': 4.834}
+LTCUSDT {'start_date': Timestamp('2022-06-29 16:20:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 64, 'losses': 82, 'profit': 4.342}
+32.184
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.25, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 38, 'losses': 77, 'profit': 7.987}
+BNBUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 50, 'losses': 88, 'profit': 2.148}
+ETHUSDT {'start_date': Timestamp('2022-06-29 22:20:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 48, 'losses': 78, 'profit': 7.793}
+ADAUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 33, 'losses': 89, 'profit': 6.53}
+MATICUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 47, 'losses': 69, 'profit': 5.247}
+LTCUSDT {'start_date': Timestamp('2022-06-30 03:55:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 46, 'losses': 82, 'profit': 6.005}
+35.71
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 34, 'losses': 78, 'profit': 7.811}
+BNBUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 42, 'losses': 87, 'profit': 2.186}
+ETHUSDT {'start_date': Timestamp('2022-06-29 22:20:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 42, 'losses': 78, 'profit': 7.716}
+ADAUSDT {'start_date': Timestamp('2022-06-29 23:05:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 30, 'losses': 90, 'profit': 6.576}
+MATICUSDT {'start_date': Timestamp('2022-06-29 22:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 41, 'losses': 63, 'profit': 5.21}
+LTCUSDT {'start_date': Timestamp('2022-06-30 03:55:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 44, 'losses': 84, 'profit': 6.596}
+36.095
+
+Period: 2 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-05-30 15:20:00'), 'end_date': Timestamp('2022-06-29 03:45:00'), 'wins': 28, 'losses': 80, 'profit': 11.812}
+BNBUSDT {'start_date': Timestamp('2022-05-30 14:05:00'), 'end_date': Timestamp('2022-06-29 03:25:00'), 'wins': 24, 'losses': 78, 'profit': 6.239}
+ETHUSDT {'start_date': Timestamp('2022-05-30 13:50:00'), 'end_date': Timestamp('2022-06-29 05:25:00'), 'wins': 20, 'losses': 71, 'profit': 8.32}
+ADAUSDT {'start_date': Timestamp('2022-05-30 12:15:00'), 'end_date': Timestamp('2022-06-29 02:15:00'), 'wins': 28, 'losses': 88, 'profit': 10.71}
+MATICUSDT {'start_date': Timestamp('2022-05-30 14:05:00'), 'end_date': Timestamp('2022-06-29 05:30:00'), 'wins': 33, 'losses': 66, 'profit': 8.887}
+LTCUSDT {'start_date': Timestamp('2022-05-30 12:10:00'), 'end_date': Timestamp('2022-06-29 03:15:00'), 'wins': 20, 'losses': 80, 'profit': 10.867}
+56.83500000000001
+
+Period: 6 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-01-28 20:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 184, 'losses': 489, 'profit': 61.232}
+BNBUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 181, 'losses': 512, 'profit': 27.569}
+ETHUSDT {'start_date': Timestamp('2022-01-29 07:25:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 177, 'losses': 512, 'profit': 42.792}
+ADAUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 162, 'losses': 555, 'profit': 56.633}
+MATICUSDT {'start_date': Timestamp('2022-01-28 19:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 196, 'losses': 514, 'profit': 56.715}
+LTCUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 185, 'losses': 498, 'profit': 44.269}
+289.21000000000004
+
+Period: 6 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-01-28 20:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 273, 'losses': 473, 'profit': 62.087}
+BNBUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 257, 'losses': 503, 'profit': 27.684}
+ETHUSDT {'start_date': Timestamp('2022-01-29 07:25:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 248, 'losses': 492, 'profit': 42.784}
+ADAUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 10:40:00'), 'wins': 232, 'losses': 534, 'profit': 56.508}
+MATICUSDT {'start_date': Timestamp('2022-01-28 19:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 276, 'losses': 500, 'profit': 56.362}
+LTCUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 264, 'losses': 497, 'profit': 42.724}
+288.149
+
+Period: 6 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-01-28 20:00:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 184, 'losses': 489, 'profit': 55.848}
+BNBUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 181, 'losses': 512, 'profit': 22.025}
+ETHUSDT {'start_date': Timestamp('2022-01-29 07:25:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 177, 'losses': 512, 'profit': 37.28}
+ADAUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 162, 'losses': 555, 'profit': 50.897}
+MATICUSDT {'start_date': Timestamp('2022-01-28 19:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 196, 'losses': 514, 'profit': 51.035}
+LTCUSDT {'start_date': Timestamp('2022-01-28 18:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 185, 'losses': 498, 'profit': 38.805}
+255.89
+
+Period: 12 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 600
+SOLUSDT {'start_date': Timestamp('2021-07-30 06:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 358, 'losses': 1016, 'profit': 11903.377}
+BNBUSDT {'start_date': Timestamp('2021-07-30 17:45:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 362, 'losses': 1072, 'profit': 5938.752}
+ETHUSDT {'start_date': Timestamp('2021-07-30 06:55:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 346, 'losses': 1052, 'profit': 7037.669}
+ADAUSDT {'start_date': Timestamp('2021-07-30 14:55:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 318, 'losses': 1125, 'profit': 10620.93}
+MATICUSDT {'start_date': Timestamp('2021-07-30 16:45:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 372, 'losses': 1051, 'profit': 11236.118}
+LTCUSDT {'start_date': Timestamp('2021-07-30 06:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 365, 'losses': 1067, 'profit': 8985.218}
+55722.064000000006
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 600
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 34, 'losses': 78, 'profit': 691.75}
+BNBUSDT {'start_date': Timestamp('2022-06-30 00:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 42, 'losses': 86, 'profit': 99.032}
+ETHUSDT {'start_date': Timestamp('2022-06-30 04:55:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 42, 'losses': 77, 'profit': 663.227}
+ADAUSDT {'start_date': Timestamp('2022-06-30 00:35:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 30, 'losses': 89, 'profit': 541.808}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 41, 'losses': 62, 'profit': 408.195}
+LTCUSDT {'start_date': Timestamp('2022-06-30 03:55:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 44, 'losses': 84, 'profit': 557.241}
+2961.253
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 800
+SOLUSDT {'start_date': Timestamp('2022-06-30 06:10:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 34, 'losses': 78, 'profit': 691.75}
+BNBUSDT {'start_date': Timestamp('2022-06-30 00:10:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 42, 'losses': 86, 'profit': 99.032}
+ETHUSDT {'start_date': Timestamp('2022-06-30 04:55:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 42, 'losses': 77, 'profit': 663.227}
+ADAUSDT {'start_date': Timestamp('2022-06-30 00:35:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 30, 'losses': 89, 'profit': 541.808}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 41, 'losses': 62, 'profit': 408.195}
+LTCUSDT {'start_date': Timestamp('2022-06-30 03:55:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 44, 'losses': 84, 'profit': 557.241}
+BITUSDT {'start_date': Timestamp('2022-07-01 20:15:00'), 'end_date': Timestamp('2022-07-29 11:30:00'), 'wins': 10, 'losses': 14, 'profit': 142.394}
+XRPUSDT {'start_date': Timestamp('2022-06-30 06:00:00'), 'end_date': Timestamp('2022-07-29 12:25:00'), 'wins': 24, 'losses': 92, 'profit': 431.404}
+3535.051
+
+Period: 12 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 600
+SOLUSDT {'start_date': Timestamp('2021-07-30 06:30:00'), 'end_date': Timestamp('2022-07-29 11:10:00'), 'wins': 358, 'losses': 1016, 'profit': 11903.377}
+ETHUSDT {'start_date': Timestamp('2021-07-30 06:55:00'), 'end_date': Timestamp('2022-07-29 12:30:00'), 'wins': 347, 'losses': 1052, 'profit': 7035.269}
+ADAUSDT {'start_date': Timestamp('2021-07-30 14:55:00'), 'end_date': Timestamp('2022-07-29 10:45:00'), 'wins': 318, 'losses': 1125, 'profit': 10620.93}
+MATICUSDT {'start_date': Timestamp('2021-07-30 16:45:00'), 'end_date': Timestamp('2022-07-29 11:05:00'), 'wins': 372, 'losses': 1051, 'profit': 11236.118}
+LTCUSDT {'start_date': Timestamp('2021-07-30 06:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 365, 'losses': 1067, 'profit': 8985.218}
+XRPUSDT {'start_date': Timestamp('2021-07-30 05:40:00'), 'end_date': Timestamp('2022-07-29 12:25:00'), 'wins': 320, 'losses': 1062, 'profit': 7427.386}
+57208.298
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 21:30:00'), 'wins': 34, 'losses': 79, 'profit': 7.279}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 16:00:00'), 'wins': 42, 'losses': 76, 'profit': 6.644}
+BNBUSDT {'start_date': Timestamp('2022-06-30 16:15:00'), 'end_date': Timestamp('2022-07-29 18:10:00'), 'wins': 43, 'losses': 84, 'profit': 0.864}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 21:35:00'), 'wins': 30, 'losses': 89, 'profit': 5.13}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 16:00:00'), 'wins': 41, 'losses': 63, 'profit': 4.502}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 06:45:00'), 'wins': 43, 'losses': 82, 'profit': 5.644}
+30.063000000000002
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 100, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 21:30:00'), 'wins': 0, 'losses': 153, 'profit': -3.798}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-29 16:00:00'), 'wins': 0, 'losses': 158, 'profit': -3.9}
+BNBUSDT {'start_date': Timestamp('2022-06-30 16:15:00'), 'end_date': Timestamp('2022-07-29 21:50:00'), 'wins': 0, 'losses': 176, 'profit': -4.279}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-29 19:50:00'), 'wins': 0, 'losses': 156, 'profit': -3.833}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-29 16:00:00'), 'wins': 0, 'losses': 151, 'profit': -3.714}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 21:30:00'), 'wins': 0, 'losses': 168, 'profit': -4.137}
+-23.661
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 0.01, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 17:00:00'), 'end_date': Timestamp('2022-07-29 04:05:00'), 'wins': 24, 'losses': 0, 'profit': 1.299}
+ETHUSDT {'start_date': Timestamp('2022-06-30 17:10:00'), 'end_date': Timestamp('2022-07-13 23:15:00'), 'wins': 4, 'losses': 0, 'profit': 0.467}
+BNBUSDT {'start_date': Timestamp('2022-06-30 16:15:00'), 'end_date': Timestamp('2022-07-29 22:25:00'), 'wins': 46, 'losses': 0, 'profit': 0.062}
+ADAUSDT {'start_date': Timestamp('2022-06-30 18:00:00'), 'end_date': Timestamp('2022-07-20 01:40:00'), 'wins': 19, 'losses': 0, 'profit': 0.66}
+MATICUSDT {'start_date': Timestamp('2022-06-30 17:05:00'), 'end_date': Timestamp('2022-07-28 17:25:00'), 'wins': 42, 'losses': 0, 'profit': 1.315}
+LTCUSDT {'start_date': Timestamp('2022-06-30 13:30:00'), 'end_date': Timestamp('2022-07-29 11:25:00'), 'wins': 40, 'losses': 0, 'profit': 1.454}
+5.257
+
+Period: 6 month/s, Interval: 5, Ema Window: 200, TP Ratio: 0.01, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-01-29 13:30:00'), 'end_date': Timestamp('2022-04-08 00:15:00'), 'wins': 30, 'losses': 0, 'profit': 1.896}
+ETHUSDT {'start_date': Timestamp('2022-01-29 07:25:00'), 'end_date': Timestamp('2022-07-13 23:15:00'), 'wins': 76, 'losses': 1, 'profit': 4.656}
+BNBUSDT {'start_date': Timestamp('2022-01-29 03:00:00'), 'end_date': Timestamp('2022-05-06 13:35:00'), 'wins': 91, 'losses': 0, 'profit': 3.566}
+ADAUSDT {'start_date': Timestamp('2022-01-29 04:05:00'), 'end_date': Timestamp('2022-04-06 23:50:00'), 'wins': 64, 'losses': 0, 'profit': 4.071}
+MATICUSDT {'start_date': Timestamp('2022-01-29 02:10:00'), 'end_date': Timestamp('2022-02-07 14:05:00'), 'wins': 19, 'losses': 0, 'profit': 0.569}
+LTCUSDT {'start_date': Timestamp('2022-01-29 03:10:00'), 'end_date': Timestamp('2022-03-30 17:40:00'), 'wins': 47, 'losses': 0, 'profit': 1.739}
+16.497
+
+Period: 6 month/s, Interval: 5, Ema Window: 200, TP Ratio: 0.02, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-01-29 13:30:00'), 'end_date': Timestamp('2022-04-02 13:20:00'), 'wins': 9, 'losses': 0, 'profit': -0.216}
+ETHUSDT {'start_date': Timestamp('2022-01-29 07:25:00'), 'end_date': Timestamp('2022-07-15 20:25:00'), 'wins': 60, 'losses': 0, 'profit': 15.014}
+BNBUSDT {'start_date': Timestamp('2022-01-29 03:00:00'), 'end_date': Timestamp('2022-05-23 10:55:00'), 'wins': 29, 'losses': 0, 'profit': 4.649}
+ADAUSDT {'start_date': Timestamp('2022-01-29 04:05:00'), 'end_date': Timestamp('2022-05-08 17:05:00'), 'wins': 24, 'losses': 0, 'profit': 5.859}
+MATICUSDT {'start_date': Timestamp('2022-01-29 02:10:00'), 'end_date': Timestamp('2022-02-07 14:05:00'), 'wins': 4, 'losses': 0, 'profit': -0.096}
+LTCUSDT {'start_date': Timestamp('2022-01-29 03:10:00'), 'end_date': Timestamp('2022-05-06 18:00:00'), 'wins': 33, 'losses': 0, 'profit': 5.99}
+31.199999999999996
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 13:35:00'), 'wins': 71, 'losses': 114, 'profit': -8.957}
+ETHUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 14:30:00'), 'wins': 83, 'losses': 99, 'profit': -5.675}
+BNBUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 13:30:00'), 'wins': 68, 'losses': 75, 'profit': -4.407}
+ADAUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 14:10:00'), 'wins': 83, 'losses': 122, 'profit': -9.732}
+MATICUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 13:05:00'), 'wins': 68, 'losses': 107, 'profit': -11.874}
+LTCUSDT {'start_date': Timestamp('2022-06-30 23:25:00'), 'end_date': Timestamp('2022-07-30 14:35:00'), 'wins': 48, 'losses': 62, 'profit': -4.423}
+-45.068000000000005
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-01 07:20:00'), 'end_date': Timestamp('2022-07-30 13:45:00'), 'wins': 55, 'losses': 89, 'profit': -5.071}
+ETHUSDT {'start_date': Timestamp('2022-07-01 05:05:00'), 'end_date': Timestamp('2022-07-30 10:00:00'), 'wins': 49, 'losses': 77, 'profit': -4.685}
+BNBUSDT {'start_date': Timestamp('2022-07-01 05:10:00'), 'end_date': Timestamp('2022-07-30 13:50:00'), 'wins': 59, 'losses': 82, 'profit': -5.235}
+ADAUSDT {'start_date': Timestamp('2022-07-01 07:15:00'), 'end_date': Timestamp('2022-07-30 13:55:00'), 'wins': 58, 'losses': 98, 'profit': -5.655}
+MATICUSDT {'start_date': Timestamp('2022-07-01 05:10:00'), 'end_date': Timestamp('2022-07-30 15:25:00'), 'wins': 60, 'losses': 92, 'profit': -5.361}
+LTCUSDT {'start_date': Timestamp('2022-07-01 05:10:00'), 'end_date': Timestamp('2022-07-30 11:20:00'), 'wins': 58, 'losses': 77, 'profit': -4.392}
+-30.399
+
+Period: 1 month/s, Interval: 5, Ema Window: 200, TP Ratio: 1.5, Capital: 6
+SOLUSDT {'start_date': Timestamp('2022-07-01 13:40:00'), 'end_date': Timestamp('2022-07-30 12:45:00'), 'wins': 27, 'losses': 35, 'profit': -3.18}
+ETHUSDT {'start_date': Timestamp('2022-07-01 05:40:00'), 'end_date': Timestamp('2022-07-30 10:00:00'), 'wins': 35, 'losses': 31, 'profit': -1.749}
+BNBUSDT {'start_date': Timestamp('2022-07-01 05:45:00'), 'end_date': Timestamp('2022-07-30 04:25:00'), 'wins': 32, 'losses': 34, 'profit': -2.22}
+ADAUSDT {'start_date': Timestamp('2022-07-01 18:55:00'), 'end_date': Timestamp('2022-07-30 01:45:00'), 'wins': 21, 'losses': 37, 'profit': -1.455}
+MATICUSDT {'start_date': Timestamp('2022-07-01 06:35:00'), 'end_date': Timestamp('2022-07-29 19:45:00'), 'wins': 29, 'losses': 29, 'profit': -1.413}
+LTCUSDT {'start_date': Timestamp('2022-07-01 05:20:00'), 'end_date': Timestamp('2022-07-30 14:05:00'), 'wins': 33, 'losses': 38, 'profit': -1.773}
+-11.790000000000001
