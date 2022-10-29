@@ -10,9 +10,9 @@ client = Client()
 ts = time.time() 
 #####
 month = 2629800
-since = ts- month * 24
+since = ts- month * 6
 symbols = ['SOLUSDT','BNBUSDT', 'ETHUSDT','MATICUSDT', 'ADAUSDT']
-capital_usd = 600 # per one pair
+capital_usd = 20 # per one pair
 lvg = 5
 fee_rate = 0.0003 # % / 100
 tp_percentage = 0.1 # % / 100
