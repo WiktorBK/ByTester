@@ -40,7 +40,6 @@ session = HTTP(
     request_timeout= 60
 )
 
-# pd.set_option('display.max_rows', None)
 
 def get_data(symbol, months): 
     now = datetime.utcnow()
@@ -110,7 +109,7 @@ def get_trades(ema_diff, df, tp_percentage, sl_percentage):
                            'tp': take_profit, 
                            "sl": stoploss})
 
-            # adding marks to plot
+            
 
         elif ema_diff[i] < 0 and ema_diff[i+1] >= 0:
             # calculating prices
@@ -124,7 +123,7 @@ def get_trades(ema_diff, df, tp_percentage, sl_percentage):
                            'tp': take_profit, 
                            "sl": stoploss})
 
-            # adding marks to plot
+            
 
     return trades
 
@@ -223,10 +222,6 @@ def get_results(trades, df, more_details = False):
         return {"start_date": trades[0]['time'], "end_date": trades[-1]['time'], "wins": wins, 'losses': loss, 'till_next_cross': nones, 'profit': round(profit, 3), 'minus': minus, 'plus': plus}
 
 
-# ema_window_1 = 100 # Long Term EMA
-# ema_window_2 = 20 # Short Term EMA
-# tp_percentage = 0.035 # % / 100
-# sl_percentage = 0.0175 # % / 100
 
 f1 = open('tps.txt')
 tps = []
@@ -261,7 +256,7 @@ for ema in emas:
             ema_diff = ema_difference(df2, ema[0], ema[1])
             trades = get_trades(ema_diff, df2, tpsl[0], tpsl[1])
             results = get_results(trades, df2, True)
-            print(symbol)
+            print( symbol)
             for order in results:
                 print(order)
                 combined += order['profit']
@@ -270,12 +265,3 @@ for ema in emas:
                 else:
                     minus += 1
             print(combined, plus, minus)  
-            # combined += results['profit']
-
-#         if combined > maxi: 
-#             maxi = combined
-#             best_ema = ema
-#             best_tpsl = tpsl
-#         print(ema, tpsl, round(combined, 4), '\n')
-
-# print(maxi, best_ema, best_tpsl)
