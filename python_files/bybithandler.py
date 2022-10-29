@@ -30,22 +30,22 @@ session = HTTP(
 
 def get_latest_data(symbol): 
     # Get Data
-    # try:
-    data = session.query_kline(
+    try:
+        data = session.query_kline(
         symbol= symbol, 
         interval = '5',
         **{'from':since},
         limit = 200
-    )['result']
-    # except:
-    #     print("Lost Connection")
-    #     print("Reconnecting...")
-    #     time.sleep(3)
-    #     data = session.query_kline(
-    #         symbol= symbol, 
-    #         interval = '3',
-    #         **{'from':since}
-    #     )['result']
+        )['result']
+    except:
+        print("Lost Connection")
+        print("Reconnecting...")
+        time.sleep(3)
+        data = session.query_kline(
+            symbol= symbol, 
+            interval = '3',
+            **{'from':since}
+        )['result']
 
     # Format Data
     df = pd.DataFrame(data)
@@ -56,7 +56,6 @@ def get_latest_data(symbol):
     df = df.astype(float)
 
     return df
-
 
 def place_order(side, symbol, qty, reduce_only):
     if reduce_only == False:
@@ -86,6 +85,7 @@ def get_correct_index(list):
         ep = list[i]['entry_price'] 
         if ep != 0:
             return i
+
 def get_entry_price(symbol):
     x = get_correct_index(session.my_position(symbol=symbol)['result'])
     if x == None:
@@ -93,7 +93,9 @@ def get_entry_price(symbol):
     else:
             entry_price = session.my_position(symbol=symbol)['result'][x]['entry_price']
 
+
     return entry_price
+    
 def change_leverage(lvg, symbol):
     session.set_leverage(
     symbol = symbol,

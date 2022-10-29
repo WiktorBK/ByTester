@@ -17,6 +17,7 @@ def get_qty(entry_price):
 
 
 def run(capital):
+
     counter = 0
     in_trade = False
 
@@ -31,26 +32,10 @@ def run(capital):
             signal = check_for_cross(ema_diff)
             print(symbol, signal, ema_diff[-1], counter)
             
-
-            # Force closing the app after 1 hour
-            time_now = datetime.now().strftime("%H:%M:%S")
-            format = '%H:%M:%S'
-            time1 = datetime.strptime(time_now, format) - \
-                datetime.strptime(start_time, format)
-            time1 = str(time1)
-            time_split = time1.split(":")
-
-
-            if time_split[1] == "05":
-                send_email("App restarted", symbol)
-                return None
-
-
             if signal == 'Buy':
                 entry_price = data['Close'][-2]
                 qty = get_qty(entry_price)
                 qty = round(qty, 2)
-                print(qty)
                 # long  market buy - TP= takeprofitmarket sell - SL= stop market sell
                 place_order(signal, symbol, qty, False)
                 entry_price = float(get_entry_price(symbol))
@@ -68,7 +53,6 @@ def run(capital):
                 entry_price = data['Close'][-2]
                 qty = get_qty(entry_price)
                 qty = round(qty, 2)
-                print(qty)
                 # short   market sell - TP= takeprofitmarket Buy - SL= stop market buy 
                 place_order(signal, symbol, qty, False)
                 entry_price = float(get_entry_price(symbol))
@@ -89,19 +73,12 @@ def run(capital):
         ema_diff = ema_difference(data)
         side = get_side(symbol)
 
+        # While in trade
         while entry_price != 0:
             data = get_latest_data(symbol)
             ema_diff = ema_difference(data)
             signal = check_for_cross(ema_diff)
-            time_now = datetime.now().strftime("%H:%M:%S")
-            format = '%H:%M:%S'
-            time1 = datetime.strptime(time_now, format) - datetime.strptime(start_time, format)
-            time1 = str(time1)
-            time_split = time1.split(":")
-            if time_split[1] == "05":
-                send_email("App restarted", symbol)
-                return None
-
+            
             if signal != 'NO SIGNAL':
                 if signal != side:
                     qty = (lvg * capital) / entry_price
@@ -112,18 +89,19 @@ def run(capital):
                         place_order('Sell', symbol, qty, True)
                     in_trade = True
                     break
+                
             entry_price = float(get_entry_price(symbol))
             print(ema_diff[-1], signal)
             time.sleep(1)
         send_email('Trade was closed', symbol)
 
 
-# try:
-# change_leverage(lvg, symbol)
-run(capital)   
-# except:
-#     print('Program failed')
-#     send_email('Program Failed', symbol)
+try:
+    change_leverage(lvg, symbol)
+    run(capital)   
+except:
+    print('Program failed')
+    send_email('Program Failed', symbol)
 
 
 

@@ -38,7 +38,6 @@ def get_latest_data(symbol):
 
     return df
 
-
 def place_order(side, order_type, symbol, qty, stop_price):
     # order_type - MARKET / STOP_MARKET / TAKE_PROFIT_MARKET
     # side - BUY / SELL
@@ -58,14 +57,12 @@ def place_order(side, order_type, symbol, qty, stop_price):
         stopPrice = stop_price,
         closePosition = True)
     
-
 def get_entry_price(symbol):
     entry_price = client.futures_position_information(
         symbol=symbol
         )[0]['entryPrice']
     
     return entry_price
-
 
 def change_leverage(lvg, symbol):
     client.futures_change_leverage(
