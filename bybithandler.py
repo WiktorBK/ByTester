@@ -5,7 +5,6 @@ import time
 from pybit.usdt_perpetual import HTTP
 import secrets
 import pandas as pd
-import requests
 
 now = datetime.utcnow()
 unixtime = calendar.timegm(now.utctimetuple())
