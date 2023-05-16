@@ -31,6 +31,39 @@ class Backtest:
                 trades.append({'index':i+1,'side': "SELL", 'time':df.index[i+1], 'open': df['Open'][i+1], 'tp': tp, "sl": sl})
 
         return trades
+        
+
+    def result(result_, side, start, ep, cp, end):
+        return {'result': result_, 'side': side, 'start_date': start, 'entry_price': ep, 'close_price': cp, 'end_date': end}
+
+    @classmethod
+    def perform_order(cls, side, tp, sl, cross_idx, cross_idx_list, df):
+        k = cross_idx_list.index(cross_idx)  # index of the cross inside the list of all crosses indexes
+        ep = df['Close'][cross_idx]
+        start = df.index[cross_idx]
+        # iterating through each candle between the crosses and identifying the results
+        for i in range(cross_idx+1, cross_idx_list[k+1]):
+            # long
+            if side == "BUY":
+                if df['High'][i] >= tp: return cls.result("win", side, start, ep, tp, df.index[i])  # return win if highest point higher than takeprofit price
+                elif df['Low'][i] <= sl: return cls.result("loss", side, start, ep, sl, df.index[i]) # return loss if lowest point lower than stoploss price
+            # short     
+            elif side == "SELL":
+                if df['High'][i] >= sl: return cls.result("loss", side, start, ep, sl, df.index[i]) # return loss if highest point higher than stoploss price
+                elif df['Low'][i] <= tp: return cls.result("win", side, start, ep, tp, df.index[i]) # return win if lowest point lower than takeprofit price
+        # execute if trade doesn't have a result till the next cross
+        else:
+            cp = df['Close'][cross_idx_list[k+1]]
+            end = df.index[cross_idx_list[k+1]]
+            if side == "BUY":
+                if cp > sl: return cls.result('none', side, start, ep, cp, end)
+                else: return cls.result('loss', side, start, ep, cp, end)
+            elif side == "SELL":
+                if cp < sl: return cls.result('none', side, start, ep, cp, end)
+                else: return cls.result('loss', side, start, ep, cp, end)
+
+
+   
 
 
    
