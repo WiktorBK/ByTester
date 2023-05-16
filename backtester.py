@@ -83,7 +83,21 @@ class Backtest:
             orders.append(order)
         return orders
     
-
+    @classmethod
+    def get_results(cls, df, details=False):
+        trades = cls.get_detailed_orders(df)
+        wins,loss,nones,plus,minus,profit=0,0,0,0,0,0
+        for i in trades:
+            if details: return trades 
+            profit += i['pnl']
+            if i['pnl'] > 0: plus += 1
+            else: minus += 1
+            if i['result'] == 'win': wins += 1
+            elif i['result'] == 'loss': loss += 1
+            else: nones += 1
+   
+        try: return {"start_date": trades[0]['start_date'], "end_date": trades[-1]['start_date'], "wins": wins, 'losses': loss, 'till_next_cross': nones, 'profit': round(profit, 3), 'minus': minus, 'plus': plus}
+        except IndexError: return "No trades for given period"
 
 
    
