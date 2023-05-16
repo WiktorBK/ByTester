@@ -61,9 +61,16 @@ class Backtest:
             elif side == "SELL":
                 if cp < sl: return cls.result('none', side, start, ep, cp, end)
                 else: return cls.result('loss', side, start, ep, cp, end)
-
-
    
+    def get_pnl(ep, cp, side):
+        qty = (LVG * CAPITAL_USD) / ep
+        bought_for = qty * ep
+        sold_for = qty * cp
+        # Calculate total fee amount
+        fee = FEE_RATE * LVG * CAPITAL_USD * 2
+        return sold_for - bought_for - fee if side=="BUY" else bought_for - sold_for - fee
+
+  
 
 
    
