@@ -70,7 +70,20 @@ class Backtest:
         fee = FEE_RATE * LVG * CAPITAL_USD * 2
         return sold_for - bought_for - fee if side=="BUY" else bought_for - sold_for - fee
 
-  
+    @classmethod
+    def get_detailed_orders(cls, df):
+        trades = cls.get_trades(df)
+        orders = []
+        cross_idx_list = [i['index'] for i in trades]
+        for i in range(len(trades)-1):
+            order = cls.perform_order(trades[i]['side'], trades[i]['tp'], trades[i]['sl'], trades[i]['index'],cross_idx_list, df)
+            pnl = cls.get_pnl(order['entry_price'], order['close_price'], order['side'])
+            order['qty'] = (LVG*CAPITAL_USD) / order['entry_price']
+            order['pnl'] = round(pnl, 3)
+            orders.append(order)
+        return orders
+    
+
 
 
    
