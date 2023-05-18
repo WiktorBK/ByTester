@@ -1,16 +1,16 @@
 
-# TradingBot
+# ByTester
 
 Program using technical analysis, showing great opportunities to place an order on the online cryptocurrency exchange. Includes backtests checking reliability of certain strategy.
 
 
 ## How does it work?
 
-Program gathers past data from bybit's api and based on that checks the reliability of **EMA cross** strategy. TradingBot checks for possible crosses and predicts how the trades would have ended. Changing the params such as: **Ema windows, timeframe, leverage, capital or border prices** user can test out the strategy in various configurations.
+Program gathers past data from bybit's api and based on that checks the reliability of **EMA cross** strategy. ByTester checks for possible crosses and predicts how the trades would have ended. Changing the params such as: **Ema windows, timeframe, leverage, capital or border prices** user can test out the strategy in various configurations.
 ## Installation
 
 - Create virutal environment
-- `git clone https://github.com/WiktorBK/TradingBot.git`
+- `git clone https://github.com/WiktorBK/ByTester.git`
 - `pip install -r requirements.txt`
 
 Configure your bot inside `config.py` file.
@@ -37,5 +37,5 @@ SOLUSDT {'start_date': Timestamp('2023-04-18 06:45:00'),
 
 ## License
 
-[MIT](https://github.com/WiktorBK/TradingBot/blob/master/LICENSE) 
+[MIT](https://github.com/WiktorBK/ByTester/blob/master/LICENSE) 
 
